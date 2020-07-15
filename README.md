@@ -5,7 +5,7 @@ Here you can see my skill level in the technologies studied.
 <thead>
 <tr>
 <th align="center">Skill</th>
-<th align="center">1<br>Introduction</th>
+<th align="center">1<br>Intro</th>
 <th align="center">2<br>Basics</th>
 <th align="center">3<br>Good</th>
 <th align="center">4<br>Pretty Good</th>
