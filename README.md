@@ -46,6 +46,16 @@ Here you can see my skill level in the technologies studied.
 <td align="center"></td>
 </tr>
 <tr>
+<td align="center"><strong>C#</strong></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png"><img src="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png" alt="done" title="Done" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png"><img src="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png" alt="done" title="Done" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png"><img src="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png" alt="done" title="Done" style="max-width:100%;"></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><strong>C++</strong></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png"><img src="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png" alt="done" title="Done" style="max-width:100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png"><img src="https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png" alt="done" title="Done" style="max-width:100%;"></a></td>
